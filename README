@@ -1,0 +1,5 @@
+QemuSmpDemo
+
+By SuperSodaSea @ zhihu.com
+x86 汇编并没有多线程之类的并行指令，那操作系统的多线程是如何实现的？
+https://www.zhihu.com/question/594531181/answer/2982337869
